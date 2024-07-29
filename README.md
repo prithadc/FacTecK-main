@@ -1,8 +1,6 @@
-Here's a sample README for your GitHub repository:
 
----
 
-# Dynamic News Website
+# FacTeck - Dynamic News Website
 
 ## Overview
 
